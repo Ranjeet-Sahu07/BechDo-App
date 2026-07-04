@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">bechdo-app</string>
+    <string name="title_activity_main">bechdo-app</string>
+    <string name="package_name">com.bechdo.app</string>
+    <string name="custom_url_scheme">com.bechdo.app</string>
+</resources>
