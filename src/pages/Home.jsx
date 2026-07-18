@@ -2,7 +2,7 @@ import { useEffect } from "react";
 
 export default function Home() {
   useEffect(() => {
-    window.location.replace("https://bechdo.page.gd");
+    window.location.replace("https://p2p.freedev.app");
   }, []);
 
   return (
